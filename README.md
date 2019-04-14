@@ -7,6 +7,7 @@ level 1 - Moderate DR
 level 2 - Non Poleferative DR
 level 3 - Poliferative DR
 level 4 - Severe DR
+
 Preprocessing Step -
 
 All the pixel values of input images are mean normalized and scaled with the standard deviation.
