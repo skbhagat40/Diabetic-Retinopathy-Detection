@@ -5,9 +5,13 @@ The Model is Convolutional Neural Network with  Input being the Retina Scan and 
 
 
 level 0 - NoDR
+
 level 1 - Moderate DR
+
 level 2 - Non Poleferative DR
+
 level 3 - Poliferative DR
+
 level 4 - Severe DR
 
 
